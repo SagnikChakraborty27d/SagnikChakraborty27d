@@ -24,11 +24,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Sagnik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagnikchakraborty&show_icons=true&theme=tokyonight)
+![Sagnik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagnikChakraborty27d&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagnikchakraborty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagnik-chakraborty-0ab57240a)
 
 ---
+
